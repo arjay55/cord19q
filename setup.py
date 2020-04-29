@@ -28,7 +28,7 @@ setup(name="cord19q",
       },
       install_requires=[
           "faiss-cpu>=1.6.1",
-          "fasttext>=0.9.1",
+          "fasttext==0.9.1",
           "html2text>=2019.9.26",
           "mdv>=1.7.4",
           "networkx>=2.4",
